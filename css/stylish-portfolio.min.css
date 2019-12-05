@@ -8,6 +8,9 @@
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%);
   
 }
+.bodycolor {
+  background:rgba(161, 173, 173, 0.1)
+}
 
 .contact-section .card {
   border: 0;
